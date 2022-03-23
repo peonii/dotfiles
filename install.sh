@@ -1,0 +1,2 @@
+./terminal.sh
+./oisuite.sh
